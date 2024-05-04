@@ -40,3 +40,10 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+
+.carousel-item img {
+	display: block;
+	margin: auto;
+	max-height: 100%;
+	height: auto;
+}
